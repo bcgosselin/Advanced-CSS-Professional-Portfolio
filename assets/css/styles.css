@@ -1,11 +1,81 @@
-header {
-    
+/* Reset and global styles */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
 body {
+
+}
+
+/* Header styles */
+header {
+
+}
+
+header h1 {
+
+}
+
+header img {
+
+}
+
+header nav {
+
+}
+
+header nav ul {
+
+}
+
+header nav ul li {
+
+}
+
+header nav ul li a {
+
+}
+
+/* Background Image Section styles */
+
+/* About Me Section styles */
+
+/* Main section styles */
+main {
+
+}
+
+main h2 {
+
+}
+
+main a {
+
+}
+
+main p {
+
+}
+
+/* Footer styles */
+footer {
+
+}
+
+footer h3 {
+
+}
+
+footer nav {
     
 }
 
-footer {
+footer ul {
+
+}
+
+footer ul li {
 
 }
