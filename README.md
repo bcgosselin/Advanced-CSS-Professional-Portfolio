@@ -27,6 +27,14 @@ Feel free to view below screenshot (ctrl + click).
 
 Utilized code from module-1-challenge to organize and structure HTML and CSS
 
+Downloaded <article> background image from:
+    https://techbloggingfool.com/2021/04/25/powershell-rename-domain-computers-from-a-list/
+
+Downloaded <prework-study-guide> image from:
+    https://trailheadbaby.blogspot.com/2020/07/financial-services-cloud-specialist.html
+
+Downloaded <module-1> image from:
+    https://amandaarneill.com/lesson/finalizing-your-brushes/course-menu-02/
 
 ## License
 
