@@ -2,6 +2,8 @@
 
 Full Stack Web Development Project 1
 
+https://bcgosselin.github.io/module-2-challenge/
+
 ## Description
 
 This project is Robert Gosselin's second web application challenge. This project was created to showcase his skills and aptitude using only text based instructions. This webpage's index and style sheet was written by hand utilizing below resources [Credits](#credits). The goal of this challenge was to develop and engineer a fuctioning website that showcases completed and future projects. Everything included was apart of an ongoing bootcamp to develop and hone Full Stack Web Development skills.
@@ -25,16 +27,36 @@ Feel free to view below screenshot (ctrl + click).
 
 ## Credits
 
+CODE
 Utilized code from module-1-challenge to organize and structure HTML and CSS
+    https://github.com/bcgosselin/module-1-challenge
 
-Downloaded <article> background image from:
-    https://techbloggingfool.com/2021/04/25/powershell-rename-domain-computers-from-a-list/
+Utilized code from module-1-challenge to set font
+    https://github.com/bcgosselin/module-1-challenge
 
-Downloaded <prework-study-guide> image from:
-    https://trailheadbaby.blogspot.com/2020/07/financial-services-cloud-specialist.html
+Referrenced common CSS commands for designing webpage:
+    https://www.linkedin.com/pulse/25-essential-commands-get-started-css-cascading-style-roshan-sharma/
 
-Downloaded <module-1> image from:
-    https://amandaarneill.com/lesson/finalizing-your-brushes/course-menu-02/
+Referrenced to allow for Responsive Web Design
+    https://www.w3schools.com/css/css3_mediaqueries.asp
+
+Utilized for Border Right Attribute
+    https://stackoverflow.com/questions/3148415/how-to-make-a-vertical-line-in-html
+    
+IMAGES
+Downloaded uncopyrighted images from:
+    https://unsplash.com/s/photos/blue-computer
+
+Used to round avatar/article img:
+    https://www.w3schools.com/howto/howto_css_rounded_images.asp
+
+Used to adjust background position and size of avatar/article:
+    https://www.w3schools.com/cssref/pr_background-position.php
+    https://www.w3schools.com/cssref/css3_pr_background-size.php
+
+Used to set hover:
+    https://www.w3schools.com/cssref/sel_hover.php
+
 
 ## License
 

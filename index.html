@@ -11,7 +11,7 @@
 <body>
     <header>
         <img src="" alt="">
-        <h1>Robert Gosselin</h1>
+        <h1>Robert Gosselin's Portfolio</h1>
         <nav>
             <ul>
                 <li>
@@ -26,46 +26,54 @@
             </ul>
         </nav>
     </header>
-    
+
     <article></article>
 
-    <section>
-        <h2>About Me</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam. Arcu cursus vitae congue mauris rhoncus. Scelerisque viverra mauris in aliquam sem fringilla ut. Sit amet tellus cras adipiscing. Arcu non sodales neque sodales ut etiam sit amet nisl. Quis lectus nulla at volutpat diam ut. At auctor urna nunc id cursus. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Integer feugiat scelerisque varius morbi. Diam phasellus vestibulum lorem sed risus ultricies. Morbi tristique senectus et netus et. Pretium quam vulputate dignissim suspendisse. Amet porttitor eget dolor morbi. Elit pellentesque habitant morbi tristique senectus et netus et. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Aliquam etiam erat velit scelerisque. Congue quisque egestas diam in arcu cursus euismod. Tristique risus nec feugiat in fermentum posuere urna nec.</p>
+    <section id="about-me" class="about-me-section">
+        <h2> About Me </h2>
+        <p>Thank you for visiting my portfolio! This webpage is a work in progress. The large image below will direct you to my first challenge in the Vanderbilt Fullstack Bootcamp - Module 1 Challenge. The first image in the second row leads to my PreWork Study Guide, the first live webpage I deployed while being enrolled in this course. All other images will refresh this webpage, but rest assure they will soon have projects attached to them as well. </p>
     </section>
 
-    <main>
+    <main id="work" class="work-section">
         <h3>Work</h3>
-        <ul>
-            <li><!--Module 1 Challenge-->
-                <a href="https://bcgosselin.github.io/module-1-challenge/">Module 1 Challenge</a>
-                    <img src="./assets/images/module-1.png" class="module-1" alt="">
+        <ul >
+            <!-- Module 1 Challenge -->
+            <li class="module-1">
+                <a href="https://bcgosselin.github.io/module-1-challenge/" target="_blank">
+                    <img src="./assets/images/keyboard.jpg" alt="Module 1" />
+                </a>
             </li>
-            <li><!--PreWork Study Guide-->
-                <a href="https://bcgosselin.github.io/prework-study-guide/">PreWork Study Guide</a>
-                    <img src="./assets/images/bowtie-cat.png" class="prework" alt="">
-            </li>
-            <li><!--Mini Project 1-->
-                <img src="./assets/images/coming-soon.jpg" class="coming-soon" alt="">
-                    <p>Coming Soon!</p></li>  
-            <li><!--Mini Project 2-->
-                <img src="./assets/images/coming-soon.jpg" class="coming-soon" alt="">
-                    <P>Coming Soon!</P></li>
 
-            <li><!--Mini Project 3-->
-                <img src="./assets/images/coming-soon.jpg" class="coming-soon" alt="">
-                    <p>Coming Soon!</p></li>
+            <!-- PreWork and Mini Project 1 -->
+            <li class="project1-container">
+                <a class="project1" href="https://bcgosselin.github.io/prework-study-guide/" target="_blank">
+                    <img src="./assets/images/wasd.jpg" alt="PreWork" />
+                </a>
+                <a class="project1" href="" target="">
+                    <img src="./assets/images/apple.jpg" alt="Mini Project 1" />
+                </a>
+            </li>
+
+            <!-- Mini Project 2 and Mini Project 3 -->
+            <li class="project2-container">
+                <a class="project2" href="#" target="_blank">
+                    <img src="./assets/images/keyboard2.jpg" alt="Mini Project 2" />
+                </a>
+                <a class="project2" href="#" target="_blank">
+                    <img src="./assets/images/keyboard3.avif" alt="Mini Project 3" />
+                </a>
+            </li>
         </ul>
     </main>
 
     <footer>
         <h4>Contact Me</h4>
-        <nav>
+        <nav id="contact-me">
             <ul>
-                <li>205-534-3213</li>
-                <li>bcgosselin@gmail.com</li>
-                <li>https://github.com/bcgosselin/</li>
-                <li>https://www.linkedin.com/in/robert-gosselin/</li>
+                <li><a href="tel:2055343213">Phone</a></li>
+                <li><a href="mailto:bcgosselin@gmail.com">Email</a></li>
+                <li><a href="https://github.com/bcgosselin/">GitHub</a></li>
+                <li><a href="https://www.linkedin.com/in/robert-gosselin/">LinkedIn</a></li>
             </ul>
         </nav>
     </footer>
