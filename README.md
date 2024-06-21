@@ -1,4 +1,4 @@
-# module-2-challenge
+# Advanced CSS: Professional Portfolio
 
 Full Stack Web Development Project 1
 
