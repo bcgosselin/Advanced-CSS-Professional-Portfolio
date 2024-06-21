@@ -2,7 +2,8 @@
 
 Full Stack Web Development Project 1
 
-https://bcgosselin.github.io/module-2-challenge/
+## Live Website
+https://bcgosselin.github.io/Advanced-CSS-Professional-Portfolio/
 
 ## Description
 
