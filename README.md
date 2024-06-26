@@ -1,6 +1,6 @@
 # Advanced CSS: Professional Portfolio
 
-Full Stack Web Development Project 1
+Developed a responsive professional portfolio utilizing flexbox, media queries, and CSS variables. Implemented smooth scrolling navigation and clickable work samples linking to live applications, showcasing personal branding through a polished and responsive design.
 
 ## Live Website
 https://bcgosselin.github.io/Advanced-CSS-Professional-Portfolio/
